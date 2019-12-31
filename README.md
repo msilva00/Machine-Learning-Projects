@@ -16,3 +16,4 @@ Projects and assignments for Machine Learning Courses
 
 ### Work In Progress
 - Simple RNN for generated data.
+- VGG16 for Kaggle Fruits dataset - Keras
