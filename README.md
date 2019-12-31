@@ -3,9 +3,12 @@ Projects and assignments for Machine Learning Courses
 
 ### Convolutional Neural Networks
 - Cifar 10 Image Classification
-Classify images from the Cifar 10 dataset. Implemented in Tensorflow 2.0 with the Keras functional API.
+  Classify images from the Cifar 10 dataset. Implemented in Tensorflow 2.0 with the Keras functional API.
+
 -- Cifar 10 Image Classification (Improved) - Tensorflow/Keras
+
 -- Image Classification for MNIST set - Tensorflow/Keras
+
 -- Image Classification for MNIST fashion set - Tensorflow/Keras
 
 ### ANN
